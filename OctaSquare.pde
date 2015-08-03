@@ -49,8 +49,8 @@ public class OctaSquare {
   }
  
   public int appendJSON(JSONArray top, int id) {
-   // if (!hasLeds) 
-   //   return id;
+    if (!hasLeds) 
+      return id;
     
     JSONArray verts;
     JSONObject edge;

@@ -15,14 +15,14 @@ array.
 
 Keys
 
-Arrows - Move in the X/Z plane
-q,Q,a,A - Move in the Y plane (caps=faster)
-z,Z - Rotate in Z axis (caps=reverse)
-y,Y - Rotate in Y axis
-x,X - Rotate in X axis
-O - Change order of rotation calls
-R - Reset rotation+order
-P - Print call to instantiate
+* Arrows - Move in the X/Z plane
+* q,Q,a,A - Move in the Y plane (caps=faster)
+* z,Z - Rotate in Z axis (caps=reverse)
+* y,Y - Rotate in Y axis
+* x,X - Rotate in X axis
+* O - Change order of rotation calls
+* R - Reset rotation+order
+* P - Print call to instantiate
 
 To write a new JSON file set WRITE\_JSON to true and run.  The 
 JSON file will be written on the first frame.  The interactive 
